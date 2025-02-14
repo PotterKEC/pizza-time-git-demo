@@ -5,7 +5,6 @@ public class PizzaTime {
         System.out.println("Pizza Time!");
 
         string[] streets = new string[]{"main", "portage"};
-        string city = "Winnipeg";
         
     }
 }
